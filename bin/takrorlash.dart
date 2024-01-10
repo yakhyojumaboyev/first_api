@@ -12,6 +12,7 @@ Future<void> main() async {
   print(country.ip);
 }
 
+
 class Country {
   final String ip;
   final String city;
